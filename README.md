@@ -1,5 +1,5 @@
 # Pokemon-Card-Matching-Game: <a href="" target="_blank">Play Here</a>
-<a href="" target="_blank"><img src="https://imgur.com/a/YEZcElQ" /></a>
+<a href="" target="_blank"><img src="https://imgur.com/biMej8I" /></a>
 
 With over 40 different cards, test your memory in Pokemon!
 
