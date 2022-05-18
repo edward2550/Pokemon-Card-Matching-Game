@@ -1,6 +1,7 @@
 # Pokemon-Card-Matching-Game: <a href="" target="_blank">Play Here</a>
-<a href="" target="_blank">/></a>
-https://github.com/edward2550/Pokemon-Card-Matching-Game/issues/1#issue-1240074630
+<a href="" target="_blank">/><img src='![Screen Shot 2022-05-18 at 10 32 42 AM](https://user-images.githubusercontent.com/47010869/169069190-a7ab8241-dd23-4f15-b78a-e63c108ecce3.png)
+'</a>
+
 
 With over 40 different cards, test your memory in Pokemon!
 
